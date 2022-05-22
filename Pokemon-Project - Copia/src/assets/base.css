@@ -1,0 +1,114 @@
+body {
+  background-color: rgb(43, 43, 43);
+  height: 100vh;
+  margin: 0px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  height: 100px;
+}
+.menu{
+  width: 10%;
+}
+.logo {
+  width: 10%;
+}
+.genero {
+  width: 60%;
+}
+.OpcoesCabecalho{
+  width: 10%;
+}
+.pesquisa {
+  width: 20%;
+}
+
+.BarraPesquisa {
+  border-radius: 15px;
+  width: 250px;
+  height: 25px;
+}
+
+main {
+  height: auto;
+  align-items: center;
+}
+
+.titulo {
+  margin-left: 75px;
+  font-size: xx-large;
+  width: 85%;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgb(6, 34, 94);
+
+}
+.Pai {
+  width: 1100px;
+  height: 650px;
+  margin-left: 75px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Filho {
+  width: 120px;
+  height: 250px;
+  border-radius: 15px;
+  margin: 30px;
+  align-content: center;
+
+}
+.cavalinho{
+  width: 20%;
+  height: 361px;
+}
+
+.Credits{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  width: 1300px;
+  height: auto;
+}
+.A1{
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  width: 990px;
+  height: 200px;
+}
+.As2{
+  display: flex;
+  width: 25%;
+  height: 200px;
+}
+.As1{
+  display: flex;
+  width: 25%;
+  height: 200px;
+
+}.A2{
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  width: 75%;
+  height: 200px;
+}
+.foto {
+  width: 150px;
+  height: 250px;
+  align-content: center;
+}
+
+
+footer {
+  height: auto;
+  text-align: end;
+}
+
+a{
+  font-size: x-large;
+}
